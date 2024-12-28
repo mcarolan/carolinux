@@ -32,7 +32,6 @@ modules:
       - docker-buildx-plugin
       - docker-compose-plugin
       - kernel-tools
-      - power-profiles-daemon
       - qt5-qtbase-devel
       - qt5-qtwebengine-devel
       - qt5-qtwebsockets-devel
