@@ -53,7 +53,7 @@ modules:
         - org.kde.haruna
         - org.kde.kalk
         - org.kde.kate
-        - org.kde.konsole
+        - app.devsuite.Ptyxis
         - org.kde.okular
         - org.mozilla.firefox
     user: {} # Also add Flathub user repo, but no user packages
