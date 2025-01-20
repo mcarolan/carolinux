@@ -39,9 +39,6 @@ modules:
       - qtkeychain-qt5-devel
       - jet-brains-mono-nerd-fonts
       - tailscale
-    remove:
-      # example: removing firefox (in favor of the flatpak)
-      # "firefox" is the main package, "firefox-langpacks" is a dependency
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
