@@ -39,6 +39,7 @@ modules:
       - qtkeychain-qt5-devel
       - jet-brains-mono-nerd-fonts
       - tailscale
+      - alsa-firmware
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
