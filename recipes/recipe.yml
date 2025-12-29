@@ -23,7 +23,6 @@ modules:
       - https://download.docker.com/linux/fedora/docker-ce.repo
       - https://copr.fedorainfracloud.org/coprs/aquacash5/nerd-fonts/repo/fedora-%OS_VERSION%/aquacash5-nerd-fonts-fedora-%OS_VERSION%.repo
       - https://pkgs.tailscale.com/stable/fedora/tailscale.repo 
-      - fedora-cisco-openh264.repo
     install:
       - zsh
       - neovim
